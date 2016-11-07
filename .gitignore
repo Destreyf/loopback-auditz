@@ -3,9 +3,6 @@ coverage/
 npm-debug.log
 
 /.idea/
-/debug.js
-/index.js
-/auditz.js
 *.map
 .nyc_output
 .coveralls.yml
